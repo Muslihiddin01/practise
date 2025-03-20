@@ -11,3 +11,4 @@ Step 5: Create a new branch. ...
 Step 6: Create a new repository on GitHub.
 More items...The key difference between Git and GitHub is that Git is a free, open source version control tool that developers install locally on their personal computers, while GitHub is a pay-for-use online service built to run Git in the cloud. Git is a piece of software. GitHub is an online SaaS service.GitHub allows you to create access rights to your code which means, for example, you could designate certain users who are allowed to freely push code to your repository. GitHub's Forking feature allows a user to create a copy of a repository on their computer for them to work on without affecting the main repository.
 ![alt](https://gratisography.com/wp-content/uploads/2025/01/gratisography-dog-vacation-800x525.jpg)
+![alt](https://img-cdn.pixlr.com/image-generator/history/65bb506dcb310754719cf81f/ede935de-1138-4f66-8ed7-44bd16efc709/medium.webp)
